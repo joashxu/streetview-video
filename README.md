@@ -1,6 +1,6 @@
 # Streetview-Video
 
-This is a small command line tool using Google Street View API, that takes in a start & desitination, then compile Street view images into a short video.
+This is a small command line tool using Google Street View API, that takes in a start & destination, then compile Street view images into a short video.
 
 Requirements:
 
